@@ -1,6 +1,7 @@
 <h1 align=center> RAFAEL PINTO CAJÉ</h1>
 
-<h1 align="">Avaliação Heurística - IHC (Interação Humano Computador) | 3ºS ADS</h1>
+<h1 align="">Avaliação Heurística - IHC (Interação Humano Computador)
+3ºS ADS</h1>
 
 ### Professor BERTOTI
 
