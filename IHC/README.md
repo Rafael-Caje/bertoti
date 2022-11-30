@@ -48,9 +48,9 @@ NÃO distinguível:
 
 <div align="center">
   <img width="700px" src="./imagens/exemploSemDistinguivel.png">
-  <br />
-  <h4>Nessa parte da página home o branco do notebook da imagem NÃO se distingue do fundo branco da página, encontrada no site da Sabesp.</h4>
-</div>
+  <br /></div>
+Nessa parte da página home o branco do notebook da imagem NÃO se distingue do fundo branco da página, encontrada no site da Sabesp.
+
 
 <h3>4 - ERRO DE IDENTIFICAÇÃO (NÍVEL A)</h3>
 
