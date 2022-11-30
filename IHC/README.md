@@ -32,7 +32,7 @@ Exemplo de formulário navegável:
 A descrição de áudio é fornecida para todo o conteúdo de vídeo pré-gravado em mídia sincronizada.
 Auxilia pessoas com déficit auditivo.
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem4.png"> </p>
+<p align = center> <img src = "./imagens/Imagem4.png"> </p>
 
 <h3>3 - DISTINGUÍVEL</h3>
 Faça com que seja simples para o seu usuário VER e OUVIR o conteúdo, incluindo a distinção do primeiro plano do plano de fundo.
@@ -56,7 +56,7 @@ NÃO distinguível:
 Se um erro de entrada for detectado automaticamente, o item que está com erro é identificado e o erro é descrito para o usuário em texto.
 Cadastro eficiente, para que seja evitado a introdução de dados incorretos.
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem5.png"></p>
+<p align = center> <img src = "./imagens/Imagem5.png"></p>
 
 <h3>5 - TEMPO LIMITE</h3>
 Permita que os conteúdos sejam exibidos exibidos na tela por tempo suficiente para que possam ser lidos. Exemplo de uso no aplitivo VLC MEDIA PLAYER para assistir videos e filmes.
@@ -74,7 +74,7 @@ A Netflix pergunta: "Você ainda está assistindo...?" para que você não perca
 
 Para continuar assistindo, você pode dispensar a mensagem ou desativar a reprodução automática do próximo episódio .
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/netflix1.png"> </p>
+<p align = center> <img src = "./imagens/netflix1.png"> </p>
 
 <h3>6 - CONVULSÕES E REAÇÕES FÍSICAS</h3>
 A epilepsia fotossensível é uma condição em que as convulsões são desencadeadas por luzes intermitentes ou padrões contrastantes de luz e escuridão. Tendo em mente essa condição o uso de luzes e super-estímulos vizuais devem ser evitados, caso não seja posível devemos aletar o usuário antes que ele seja exposto a esse típo de conteúdo.
