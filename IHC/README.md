@@ -14,6 +14,7 @@ A análise heurística é uma espécie de “inspeção” de usabilidade. Consi
 - [YOUTUBE](#Youtube)
 - [RIOTGAMES](#Riot_Games)
 - [SABESP](#Sabesp)
+- [GMAIL](#Gmail)
 - [NETFLIX](#Netflix)
 - [CONVULSÕES](#Convulsões_e_Reações_Físicas)
 
