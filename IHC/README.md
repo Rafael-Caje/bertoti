@@ -12,10 +12,10 @@ A análise heurística é uma espécie de “inspeção” de usabilidade. Consi
 ## SUMÁRIO
 - [STACK](#Stack)
 - [YOUTUBE](#Youtube)
-- [RIOTGAMES](#Riot Games)
+- [RIOTGAMES](#Riot_Games)
 - [SABESP](#Sabesp)
 - [NETFLIX](#Netflix)
-- [CONVULSÕES](#Convulsões e Reações Físicas)
+- [CONVULSÕES](#Convulsões_e_Reações Físicas)
 
 <h3>1 - NAVEGÁVEL</h3>
 Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determinar os passos seguintes para chegar ao seu objetivo.
