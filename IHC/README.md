@@ -10,13 +10,12 @@
 A análise heurística é uma espécie de “inspeção” de usabilidade. Consiste em avaliar uma interface para determinar se obedece a princípios pré-determinados – as heurísticas.
 
 ## SUMÁRIO
-- [Youtube](#Youtube)
-- [Google](#Google)
-- [Wikipedia](#Wikipedia)
-- [Netflix](#Netflix)
-- [Gov.br](#Gov.br)
-- [Americanas](#Americanas)
-- [G1](#G1)
+- [STACK](#Stack)
+- [YOUTUBE](#Youtube)
+- [RIOTGAMES](#Riot Games)
+- [SABESP](#Sabesp)
+- [NETFLIX](#Netflix)
+- [CONVULSÕES](#Convulsões e Reações Físicas)
 
 <h3>1 - NAVEGÁVEL</h3>
 Forneça maneiras de ajudar o usuário a navegar, encontrar conteúdo e determinar os passos seguintes para chegar ao seu objetivo.
