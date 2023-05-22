@@ -1,4 +1,4 @@
 ## Atividades  FATEC - [Profº Giuliano Bertoti](https://github.com/giulianobertoti)
 
-> IHC;
+> IHC  
 > Engenharia de Software III.
